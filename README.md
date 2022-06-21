@@ -1,4 +1,4 @@
-## Hello! I'am Marco Torquato, a Junior Developer and always studying to do my best!
+## Hello world! I'am Marco Torquato, a Junior Developer and always studying to do my best!
 <div align="center">
   <a href="https://github.com/marcotorquato">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcotorquato&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
