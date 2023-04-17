@@ -1,7 +1,10 @@
 
-## Hello world!
+## Hello, here's coffee!
 
-I am Marco Torquato!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+How are you doing?;+I+am+Marco+Torquato!;Welcome+to+my+Profile!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+</p>
+
 
 <div align="center">
   <a href="https://github.com/marcotorquato">
