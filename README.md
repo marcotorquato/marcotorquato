@@ -1,7 +1,7 @@
 
 ## Hello world!
 
-I'am Marco Torquato!
+I am Marco Torquato!
 
 <div align="center">
   <a href="https://github.com/marcotorquato">
